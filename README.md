@@ -4,6 +4,14 @@
 - 💞️ I’m looking to collaborate on projects involving data and machine learning.
 - 📫 How to reach me: https://www.linkedin.com/in/nathanmurstein/ 
 
+
+_Data Science/Analytics Projects_:
+
+- UFC Analysis: https://github.com/NathanMurstein/UFC_Analysis
+- Starbucks NLP: https://github.com/NathanMurstein/Starbucks-Twitter-Language-Processing-NLP
+
+
+
 <!---
 NathanMurstein/NathanMurstein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
